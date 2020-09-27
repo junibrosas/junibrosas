@@ -1,7 +1,7 @@
 
 ### Javascript Developer. 👩‍💻 Frontend Enthusiast. 🤩 Taking few steps to make noise. 📢
 
-I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
+Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
 
 You can see what I am currently up to on [junibrosas.hashnode.dev](https://junibrosas.hashnode.dev/)
 
