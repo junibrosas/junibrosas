@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer from Philippines. I am interested in, write about and develop software solutions for and with JavaScript, TypeScript, ReactJs and NodeJS.
+I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
 
 You can see what I am currently up to on [junibrosas.hashnode.dev](https://junibrosas.hashnode.dev/)
 
