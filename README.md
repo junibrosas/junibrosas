@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Software Engineer from Philippines. I am interested in, write about and develop software solutions for and with JavaScript, TypeScript, ReactJs and NodeJS.
+
+You can see what I am currently up to on [junibrosas.hashnode.dev](https://junibrosas.hashnode.dev/)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junibrosas&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junibrosas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
