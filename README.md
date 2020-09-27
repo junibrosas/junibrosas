@@ -1,10 +1,10 @@
-### Hi there 👋
 
-Javascript Developer. 👩‍💻 Frontend Enthusiast. 🤩 Taking few steps to make noise. 📢
+### Javascript Developer. 👩‍💻 Frontend Enthusiast. 🤩 Taking few steps to make noise. 📢
 
 I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
 
 You can see what I am currently up to on [junibrosas.hashnode.dev](https://junibrosas.hashnode.dev/)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junibrosas&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junibrosas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
