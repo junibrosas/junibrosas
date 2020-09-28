@@ -3,7 +3,7 @@
 
 Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
 
-You can see what I am currently up to on [junibrosas.hashnode.dev](https://junibrosas.hashnode.dev/)
+You can see what I am currently up to on 🌱 [junibrosas.hashnode.dev](https://junibrosas.hashnode.dev/)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junibrosas&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
