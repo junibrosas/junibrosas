@@ -1,4 +1,6 @@
 
+<img src="https://komarev.com/ghpvc/?username=junibrosas" alt="junibrosas" />
+
 ### Javascript Developer. 👩‍💻 Frontend Enthusiast. 🤩 Taking few steps to make noise. 📢
 
 Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
