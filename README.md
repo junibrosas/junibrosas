@@ -1,5 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=junibrosas" alt="junibrosas" />
+![](https://komarev.com/ghpvc/?username=junibrosas&color=blue)
 
 ### Javascript Developer. 👩‍💻 Frontend Enthusiast. 🤩 Taking few steps to make noise. 📢
 
