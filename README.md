@@ -1,5 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=junibrosas&color=blue)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juni-brosas-549b28a0/)](linkedin.com/in/juni-brosas-549b28a0)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/junibrosas)](https://github.com/junibrosas)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:powerlogic1992@gmail.com)](mailto:powerlogic1992@gmail.com)
+
 
 ### Javascript Developer. 👩‍💻 Frontend Enthusiast. 🤩 Taking few steps to make noise. 📢
 
