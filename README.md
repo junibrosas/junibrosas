@@ -11,12 +11,13 @@ Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interes
 
 You can see what I am currently up to on 🌱 [junibrosas.com](https://junibrosas.com/)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junibrosas&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junibrosas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=junibrosas">](https://profile.codersrank.io/user/junibrosas)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junibrosas&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junibrosas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **junibrosas/junibrosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
