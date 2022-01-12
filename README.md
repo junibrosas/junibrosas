@@ -9,6 +9,42 @@
 
 Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
 
+
+✔ - Current technology I used.
+🌱 - Technology I am familiar with or previously used.
+
+I am expert with these technologies ⚡
+
+Front-end:
+✔ ReactJS
+✔ Typescript
+✔ NextJS
+✔ CSS-in-JS/Styled Components/Tailwind CSS
+✔ Jest
+✔ React Testing Library
+✔ Storybook
+🌱 AngularJS
+🌱 Angular 2+
+🌱 React Native
+🌱 JQuery
+
+Back-end:
+✔ NodeJS
+✔ MongoDB
+✔ ExpressJS
+🌱 PHP/Wordpress
+🌱 MySQL
+
+Build Tools:
+✔ Webpack
+✔ Lerna
+🌱 Rollup
+
+DevOps:
+✔ Bitbucket CI/CD
+🌱 Docker
+
+
 You can see what I am currently up to on 🌱 [junibrosas.com](https://junibrosas.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junibrosas&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
