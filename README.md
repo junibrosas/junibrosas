@@ -16,8 +16,8 @@ Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interes
 I am expert with these technologies ⚡
 
 Front-end:
-✔ ReactJS
-✔ Typescript
+- ✔ ReactJS
+- ✔ Typescript
 ✔ NextJS
 ✔ CSS-in-JS/Styled Components/Tailwind CSS
 ✔ Jest
