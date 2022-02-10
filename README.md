@@ -47,7 +47,7 @@ Build Tools:
 - ✔ Lerna
 - 🌱 Rollup
 
-Database
+Database:
 - ✔ MongoDB
 - 🌱 MySQL
 
