@@ -38,19 +38,24 @@ Front-end:
 
 Back-end:
 - ✔ NodeJS
-- ✔ MongoDB
 - ✔ ExpressJS
+- 🌱 NestJS
 - 🌱 PHP/Wordpress
-- 🌱 MySQL
 
 Build Tools:
 - ✔ Webpack
 - ✔ Lerna
 - 🌱 Rollup
 
+Database
+- ✔ MongoDB
+- 🌱 MySQL
+
 DevOps:
 - ✔ Bitbucket CI/CD
 - 🌱 Docker
+
+
 
 
 You can see what I am currently up to on 🌱 [junibrosas.com](https://junibrosas.com/)
