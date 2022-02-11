@@ -50,6 +50,7 @@ Build Tools:
 Database:
 - ✔ MongoDB
 - 🌱 MySQL
+- 🌱 Redis
 
 DevOps:
 - ✔ Bitbucket CI/CD
