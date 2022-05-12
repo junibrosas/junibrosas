@@ -16,7 +16,9 @@ Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interes
 - 🔗 LinkedIn: https://www.linkedin.com/in/junibrosas/
 
 
+You can see what I am currently up to on 🌱 [junibrosas.com](https://junibrosas.com/)
 
+<!--
 
 ✔ - Current technology I used.
 🌱 - Technology I am familiar with or previously used.
@@ -59,9 +61,9 @@ DevOps:
 
 
 
-You can see what I am currently up to on 🌱 [junibrosas.com](https://junibrosas.com/)
 
-<!--
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junibrosas&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junibrosas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
