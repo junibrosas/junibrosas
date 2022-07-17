@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junibrosas@gmail.com)](mailto:junibrosas@gmail.com)
 
 
-### Javascript Developer. 👩‍💻 Frontend Enthusiast. 🤩 Taking few steps to make noise. 📢
+### Fullstack Javascript Developer. 👩‍💻 Taking few steps to make noise. 📢
 
 Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
 
