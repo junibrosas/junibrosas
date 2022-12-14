@@ -9,8 +9,7 @@
 
 Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interested in writing about and developing software solutions with JavaScript, TypeScript, ReactJS and NodeJS.
 
-- 🔭 I’m strong in modern frontend development
-- 👀 I’m currently leaning towards Fullstack development
+- 🔭 I’m a Fullstack Engineer and strong in modern frontend development.
 - 😄 I’m a firm [T-shape developer](https://medium.com/quick-code/what-it-is-a-t-shaped-developer-and-why-you-should-be-one-e87293e4bb84)
 - 📫 Reach me at junibrosas@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/junibrosas/
@@ -57,9 +56,6 @@ Database:
 DevOps:
 - ✔ Bitbucket CI/CD
 - 🌱 Docker
-
-
-
 
 
 
