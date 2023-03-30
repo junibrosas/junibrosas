@@ -15,7 +15,7 @@ Hi 👋 I'm Juni Brosas. I am a Software Engineer from Philippines. I am interes
 - 🔗 LinkedIn: https://www.linkedin.com/in/junibrosas/
 
 
-You can see what I am currently up to on 🌱 [junibrosas.com](https://junibrosas.com/) and 
+You can see what I am currently up to on 🌱 [junibrosas.com](https://junibrosas.com/). 
 
 You might also be interested in checking out my organization github account https://github.com/junibrosaslmf.
 
